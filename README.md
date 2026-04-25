@@ -1,4 +1,3 @@
-# TITANIC
 # 🚢 Titanic Survival Classification
 
 ## Problem Statement
